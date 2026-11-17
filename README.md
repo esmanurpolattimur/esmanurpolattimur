@@ -1,6 +1,6 @@
 ## Merhaba, ben Esmanur 👋
 
-Konya Teknik Üniversitesi'nde mühendislik öğrencisiyim. Yapay zeka ve veri bilimi
+Konya Teknik Üniversitesi Yapay Zeka ve Makine Öğrenmesi Mühendisliği öğrencisiyim. Yapay zeka ve veri bilimi
 üzerine çalışıyorum — özellikle **uzaktan algılama**, **bilgisayarlı görü** ve
 **RAG tabanlı dil modeli uygulamaları**.
 
