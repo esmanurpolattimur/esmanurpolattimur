@@ -1,6 +1,9 @@
 <h1 align="center">Merhaba, ben Esmanur 👋</h1>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/esmanurpolattimur/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:polattimuresmanur@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -25,6 +28,7 @@ gerçekten kullandığı bir arayüze koymak. Bu yüzden hem model tarafını he
 - 🧠 **Şu anda öğrendiğim konular:** Derin öğrenme, bilgisayarlı görü, retrieval kalitesi ve model kalibrasyonu
 - 🤝 **İşbirliği:** Açık kaynak öğrenci projeleri ve topluluk çalışmaları
 - 📫 **Bana ulaşın:** [polattimuresmanur@gmail.com](mailto:polattimuresmanur@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/esmanurpolattimur](https://www.linkedin.com/in/esmanurpolattimur/)
 
 ---
 
