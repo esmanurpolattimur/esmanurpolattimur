@@ -6,8 +6,7 @@
   </a>
   <a href="mailto:polattimuresmanur@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=esmanurpolattimur&style=for-the-badge&color=blue" alt="Profil görüntülenme" />
+
 </p>
 
 ---
