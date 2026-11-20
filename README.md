@@ -21,7 +21,7 @@
 gerçekten kullandığı bir arayüze koymak. Bu yüzden hem model tarafını hem de uygulama tarafını —
 özellikle **Flutter** ile mobil — birlikte öğreniyorum.
 
-- 🎓 **Bölüm:** Yapay Zeka ve Makine Öğrenmesi Mühendisliği — KTÜN
+- 🎓 **Bölüm:** Yapay Zeka ve Makine Öğrenmesi  — KTÜN
 - 🛰️ **Üzerinde çalıştığım:** Sentinel-2 uydu zaman serileriyle tarımsal ürün sınıflandırması ve model güvenilirliği analizi
 - 🤖 **Yan proje:** Türkçe RAG chatbotu — BM25 + retrieval ile üniversite içeriği üzerinde soru-cevap
 - 📱 **Mobil:** Flutter & Dart ile uçtan uca uygulama geliştirme
